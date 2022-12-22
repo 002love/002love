@@ -12,8 +12,12 @@ He makes frontend, backend, works with APIs, databases, develops applications.</
 ## 🌐 Contact with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ybU4DuGP47) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20540633) 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD&currStreakLabel=DD0000)](https://git.io/streak-stats)
- 
+![](https://github-readme-stats.vercel.app/api?username=miku-nakano-8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=miku-nakano-8888&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miku-nakano-8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD&currStreakLabel=DD0000)](https://git.io/streak-stats)
+  -->
 </div>
 
 
