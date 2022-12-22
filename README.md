@@ -4,7 +4,8 @@
 He makes frontend, backend, works with APIs, databases, develops applications.</h3>
 
 <h3 align="center"> I have my own music bot in discord! </h3>
-<div>dgfhfgh</div>
 <h3 align="center"> [![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD&currStreakLabel=DD0000)](https://git.io/streak-stats) </h3>
 
+
+<div style="display: flex; justify-content: center;"></div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD&currStreakLabel=DD0000)](https://git.io/streak-stats)
