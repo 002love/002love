@@ -27,6 +27,11 @@ He makes frontend, backend, works with APIs, databases, develops applications.</
   </div>
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD&currStreakLabel=DD0000)](https://git.io/streak-stats)
   -->
 </div>
