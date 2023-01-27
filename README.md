@@ -6,7 +6,7 @@ He makes frontend, backend, works with APIs, databases, develops applications.</
 <h3 align="center"> I have my own music bot in discord! </h3>
 <h3 align="center">  </h3>
 
-
+ 
 <div align="center">
   
   ## 🌐 Contact with me:
