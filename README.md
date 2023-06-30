@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Roman
+<h1 align="center">Hi there, I'm Gura
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Middle developer.
 React, Node.js, Rust, blockchain developer.</h3>
