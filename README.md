@@ -34,7 +34,7 @@ React, Node.js, Rust, blockchain developer.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=miku-nakano-8888&icon=5&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by Sponsoring
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/BUY-ME-A-COFFEE_NAME) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PAYPAL_NAME) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/PATREON_NAME) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/KO-FI_NAME) 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD&currStreakLabel=DD0000)](https://git.io/streak-stats)
