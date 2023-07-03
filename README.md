@@ -13,9 +13,12 @@ React, Node.js, Rust, blockchain developer.</h3>
   
   <div align="center">
 
-  <div>[![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD)](https://git.io/streak-stats)
+  <div>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD)](https://git.io/streak-stats)
+    
 </div>
-  <div>![](https://github-readme-stats.vercel.app/api/top-langs/?username=miku-nakano-8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+  <div>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miku-nakano-8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 </div>
   
   </div> 
