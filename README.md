@@ -12,9 +12,11 @@ React, Node.js, Rust, blockchain developer.</h3>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ybU4DuGP47) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20540633) 
   
   <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miku-nakano-8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+  <div>[![GitHub Streak](https://streak-stats.demolab.com?user=Miku-Nakano-8888&theme=dark&ring=DD0081&fire=BB00DD&sideNums=DC2727&sideLabels=DD7A00&currStreakNum=BB00DD)](https://git.io/streak-stats)
+</div>
+  <div>![](https://github-readme-stats.vercel.app/api/top-langs/?username=miku-nakano-8888&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+</div>
   
   </div> 
   <div align="center">
