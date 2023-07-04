@@ -5,7 +5,6 @@
 <!-- <h3 align="center">Middle developer.
 React, Node.js, Rust, blockchain developer.</h3> -->
 
-## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/grutamew) 
 
 # 💻 Tech Stack:
