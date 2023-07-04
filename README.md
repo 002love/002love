@@ -15,7 +15,7 @@ React, Node.js, Rust, blockchain developer.</h3> -->
 
 # 📊 GitHub Stats:
 
-<img align="right" src="https://media.tenor.com/-vcPVJ8K0hMAAAAd/zerotwo-sad.gif" alt="Love me?..." width=250 />
+<img align="right" src="https://i.pinimg.com/originals/d5/7e/06/d57e061b1045492ccf833f113139c8f4.gif" alt="Love me?..." width=250 />
 
 <div align="left">
 
