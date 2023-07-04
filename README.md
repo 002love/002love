@@ -1,5 +1,4 @@
 <h1 align="center">
-  💔
   <img src="https://media.tenor.com/-vcPVJ8K0hMAAAAd/zerotwo-sad.gif" height="32"/>
   Love her?...
 <img src="https://media.tenor.com/-vcPVJ8K0hMAAAAd/zerotwo-sad.gif" height="32"/></h1>
