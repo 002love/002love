@@ -32,6 +32,6 @@ React, Node.js, Rust, blockchain developer.</h3> -->
 ![](https://github-contributor-stats.vercel.app/api?username=002love&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=002love&icon=2&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=002love&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
