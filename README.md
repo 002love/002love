@@ -18,7 +18,7 @@ React, Node.js, Rust, blockchain developer.</h3> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=002love&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=002love&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="right" src="https://media.tenor.com/-vcPVJ8K0hMAAAAd/zerotwo-sad.gif" alt="Love me?..." height="100"/>
+<img align="right" src="https://media.tenor.com/-vcPVJ8K0hMAAAAd/zerotwo-sad.gif" alt="Love me?..." width=200/>
 
 </div>
 
