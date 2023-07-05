@@ -1,6 +1,6 @@
 <h1 align="left">
   <img src="https://media.tenor.com/r6vuW8DZoEkAAAAi/heart-love.gif" height="32"/>
-    Love her?...
+    Love me?...
   <img src="https://media.tenor.com/r6vuW8DZoEkAAAAi/heart-love.gif" height="32"/>
 </h1>
 
