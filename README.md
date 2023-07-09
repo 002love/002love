@@ -26,7 +26,7 @@ React, Node.js, Rust, blockchain developer.</h3> -->
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=002love&theme=discord&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=002love&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=-1)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=002love&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
