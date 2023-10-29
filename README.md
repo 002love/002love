@@ -7,7 +7,7 @@
 <!-- <h3 align="center">Middle developer.
 React, Node.js, Rust, blockchain developer.</h3> -->
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/grutamew)  <!-- [![wakatime](https://wakatime.com/badge/user/ef9e128f-d4b4-4c9c-96b0-bc6e2aa511e4.svg)](https://wakatime.com/@ef9e128f-d4b4-4c9c-96b0-bc6e2aa511e4) -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/grutamew)  
 <img align="right" src="https://i.pinimg.com/originals/d5/7e/06/d57e061b1045492ccf833f113139c8f4.gif" alt="Love me?..." width="250"/>
 
 # 💻 Tech Stack:
