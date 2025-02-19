@@ -1,0 +1,31 @@
+{
+  "842": {
+    "0x020fA4aB1b8deFA5B4fc1b662FbC1579d4842952": {
+      "chainId": 842,
+      "address": "0x020fA4aB1b8deFA5B4fc1b662FbC1579d4842952",
+      "decimals": 18,
+      "symbol": "MONKE",
+      "name": "MONKE",
+      "logoURI": "https://thumbs2.imgbox.com/c1/f9/v8kYwV8Z_t.png",
+      "tags": []
+    },
+    "0x9B4d8c6423E3c30e8034e7C41ed103D9547D05CA": {
+      "chainId": 842,
+      "address": "0x9B4d8c6423E3c30e8034e7C41ed103D9547D05CA",
+      "decimals": 18,
+      "symbol": "BANANA",
+      "name": "BANANA",
+      "logoURI": "https://thumbs2.imgbox.com/c1/f9/v8kYwV8Z_t.png",
+      "tags": []
+    },
+    "0x7a24b3998550a8de995A1CCB86a6e8a95c250D70": {
+      "chainId": 842,
+      "address": "0x7a24b3998550a8de995A1CCB86a6e8a95c250D70",
+      "decimals": 18,
+      "symbol": "SWAMP",
+      "name": "SWAMP",
+      "logoURI": "https://thumbs2.imgbox.com/c1/f9/v8kYwV8Z_t.png",
+      "tags": []
+    }
+  }
+}
